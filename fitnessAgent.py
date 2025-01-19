@@ -61,7 +61,7 @@ def main():
 
  
     
-    gemini_api_key="AIzaSyB9Kcwa7v6pKbv5W4P9ljIsQaUY3q9rfwI"
+    gemini_api_key=""
 
     if gemini_api_key:
         try:
