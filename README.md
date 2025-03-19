@@ -42,6 +42,15 @@ Welcome to the AI-Powered Agent Suite! This suite includes several applications 
   - SQL query generation
   - Statistical analysis
 
+
+## Project Pictures
+
+Here are some pictures of the project:
+
+![Screenshot 1](https://github.com/sanskaryo/DataLens-AI-Agent/blob/main/Screenshot%202025-01-12%20164920.png)
+![Screenshot 2](https://github.com/sanskaryo/DataLens-AI-Agent/blob/main/Screenshot%202025-01-14%20165347.png)
+
+
 ## Setup Instructions
 
 ### Prerequisites
