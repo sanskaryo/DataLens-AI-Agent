@@ -1,0 +1,9 @@
+streamlit
+langchain-groq
+yfinance
+pandas
+numpy
+langchain-core
+plotly
+python-dotenv
+ta
